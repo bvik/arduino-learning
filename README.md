@@ -1,5 +1,5 @@
 # arduino-learning
 
-The repository contains sketches that I made while was studying arduino.
+The repository contains sketches I made while was studying arduino.
 
 
